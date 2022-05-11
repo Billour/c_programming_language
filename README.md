@@ -3,30 +3,30 @@ C programming language.
   
     
 ##CONTENT  
-  
-01_getting_started  
-02_variable  
-03_input  
-04_operator  
-05_conditional_operator  
-06_loop  
-07_function  
-08_macro  
-09_preprocessor  
-10_array  
-11_char  
-12_pointer  
-13_dynamic_memory  
-14_storage_class  
-15_struct  
-16_file  
-17_verification  
-99_other  
+  __________
+&nbsp;&nbsp;&nbsp;&nbsp; 01_getting_started  
+&nbsp;&nbsp;&nbsp;&nbsp; 02_variable  
+&nbsp;&nbsp;&nbsp;&nbsp; 03_input  
+&nbsp;&nbsp;&nbsp;&nbsp; 04_operator  
+&nbsp;&nbsp;&nbsp;&nbsp; 05_conditional_operator  
+&nbsp;&nbsp;&nbsp;&nbsp; 06_loop  
+&nbsp;&nbsp;&nbsp;&nbsp; 07_function  
+&nbsp;&nbsp;&nbsp;&nbsp; 08_macro  
+&nbsp;&nbsp;&nbsp;&nbsp; 09_preprocessor  
+&nbsp;&nbsp;&nbsp;&nbsp; 10_array  
+&nbsp;&nbsp;&nbsp;&nbsp; 11_char  
+&nbsp;&nbsp;&nbsp;&nbsp; 12_pointer  
+&nbsp;&nbsp;&nbsp;&nbsp; 13_dynamic_memory  
+&nbsp;&nbsp;&nbsp;&nbsp; 14_storage_class  
+&nbsp;&nbsp;&nbsp;&nbsp; 15_struct  
+&nbsp;&nbsp;&nbsp;&nbsp; 16_file  
+&nbsp;&nbsp;&nbsp;&nbsp; 17_verification  
+&nbsp;&nbsp;&nbsp;&nbsp; 99_other  
 
 
 Environment:  
-    For Linux kernel,  
-    Ubuntu 18.04 LTS,  
-    GCC 7.5,   
-    NVIDIA jetson nano ARM(Advanced RISC Machine)  
-&nbsp;&nbsp;&nbsp;&nbsp;Version:2022051001
+&nbsp;&nbsp;&nbsp;&nbsp; For Linux kernel,  
+&nbsp;&nbsp;&nbsp;&nbsp; Ubuntu 18.04 LTS,  
+&nbsp;&nbsp;&nbsp;&nbsp; GCC 7.5,   
+&nbsp;&nbsp;&nbsp;&nbsp; NVIDIA jetson nano ARM(Advanced RISC Machine)  
+&nbsp;&nbsp;&nbsp;&nbsp; Version:2022051001
