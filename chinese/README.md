@@ -1,33 +1,33 @@
 # c_programming_language
 C programming language. 
 
-¥Ø¿ı:
-01_getting_started(°ò¥»)
-02_variable(ÅÜ¼Æ)
-03_input(¿é¤J¿é¥X)
-04_operator(¹Bºâ)
-05_conditional_operator(±ø¥ó¦¡)
-06_loop(°j°é±±¨î)
-07_function(¨ç¦¡)
-08_macro(¥¨¶°)
-09_preprocessor(«e¸m³B²z)
-10_array(°}¦C)
-11_char(¦r¦ê)
-12_pointer(«ü¼Ğ)
-13_dynamic_memory(°ÊºA°O¾ĞÅé)
-14_storage_class(ÅÜ¼Æµ¥¯Å)
-15_struct(µ²ºc)
-16_file(ÀÉ®×³B²z)
-17_verification(Åçµı)
-99_other(¨ä¥L)
+ç›®éŒ„:
+01_getting_started(åŸºæœ¬)  
+02_variable(è®Šæ•¸)  
+03_input(è¼¸å…¥è¼¸å‡º)  
+04_operator(é‹ç®—)  
+05_conditional_operator(æ¢ä»¶å¼)  
+06_loop(è¿´åœˆæ§åˆ¶)  
+07_function(å‡½å¼)  
+08_macro(å·¨é›†)  
+09_preprocessor(å‰ç½®è™•ç†)  
+10_array(é™£åˆ—)  
+11_char(å­—ä¸²)  
+12_pointer(æŒ‡æ¨™)  
+13_dynamic_memory(å‹•æ…‹è¨˜æ†¶é«”)  
+14_storage_class(è®Šæ•¸ç­‰ç´š)  
+15_struct(çµæ§‹)  
+16_file(æª”æ¡ˆè™•ç†)  
+17_verification(é©—è¨¼)  
+99_other(å…¶ä»–)  
 
-For Linux kernel, 
+For Linux kernel,   
 
-Àô¹Ò:
-Ubuntu 18.04 LTS,
-GCC 7.5, 
-NVIDIA jetson nano ARM(Advanced RISC Machine)
-Version:2022051001
+ç’°å¢ƒ:  
+Ubuntu 18.04 LTS,  
+GCC 7.5,   
+NVIDIA jetson nano ARM(Advanced RISC Machine)  
+Version:2022051001  
 
 
 
