@@ -29,8 +29,7 @@ ____
 &nbsp;&nbsp;&nbsp;&nbsp; GCC 7.5,   
 &nbsp;&nbsp;&nbsp;&nbsp; NVIDIA jetson nano ARM(Advanced RISC Machine)  
 &nbsp;&nbsp;&nbsp;&nbsp; Version:2022051001  
-&nbsp;&nbsp;&nbsp;&nbsp; 
-&nbsp;&nbsp;&nbsp;&nbsp; 
+<br/><br/>
 關於作者:  
 ________  
 Billour Ou  
