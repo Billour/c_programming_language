@@ -1,9 +1,10 @@
 # c_programming_language
 C programming language.     
-  Lanuage:[中文](https://github.com/Billour/c_programming_language/tree/master/chinese)
-&nbsp;&nbsp;    [Auther's Linkedin](https://www.linkedin.com/in/billour-ou-a52097169/?locale=en_US) <br/>
-##CONTENT  
-  __________
+  Lanuage:[中文](https://github.com/Billour/c_programming_language/tree/master/chinese).
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[Auther's Linkedin](https://www.linkedin.com/in/billour-ou-a52097169/?locale=en_US) <br/> <br/>
+CONTENT  
+__________
 &nbsp;&nbsp;&nbsp;&nbsp; 01_getting_started  
 &nbsp;&nbsp;&nbsp;&nbsp; 02_variable  
 &nbsp;&nbsp;&nbsp;&nbsp; 03_input  
