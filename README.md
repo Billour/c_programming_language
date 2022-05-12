@@ -33,7 +33,7 @@ Environment:
 &nbsp;&nbsp;&nbsp;&nbsp; NVIDIA jetson nano ARM(Advanced RISC Machine)   Cortex-A57 MPCore processor  
 &nbsp;&nbsp;&nbsp;&nbsp; Version:2022051001
 <br/><br/>
-Auther:Billour Ou(歐育溙)  
+Author:Billour Ou(歐育溙)  
 ----------
 First-Place Winner in the 2nd DSP (Digital Signal Processing) Creative Design Contest.  
 Over ten years of software development experience in system performance improvement by 91.8%, configuration of corporate software systems, while providing cloud support and service to clients, with three and half years as an App development in Tech Lead role, as well as managing various projects to serve the needs of corporates and clients.  
