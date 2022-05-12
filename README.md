@@ -1,6 +1,6 @@
 # c_programming_language
 C programming language.     
-  Lanuage:[中文](https://github.com/Billour/c_programming_language/tree/master/chinese).
+  Lanuage:[中文解釋程式碼](https://github.com/Billour/c_programming_language/tree/master/chinese).
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [Author's Linkedin](https://www.linkedin.com/in/billour-ou-a52097169/?locale=en_US) <br/> <br/>
 CONTENT  
