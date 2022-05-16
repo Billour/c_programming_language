@@ -8,7 +8,7 @@ int main(void)
 	printf("Unsigned long int's length: %ld bytes\n", sizeof(unsigned long int));
 	printf("long long int's length: %ld bytes \n", sizeof(long long int));
 	printf("long double's length: %ld bytes \n", sizeof(long double));
-
+	printf("ok\n\n");
 	system("pause");
 	return 0;
 }
