@@ -12,14 +12,15 @@ int main(void)
     fgets(c_str, 20, stdin);
 
     int i = 0;
-    printf("Output area: \n\n");
+    printf("\n Output area: \n\n");
     puts(c_str);
 
-    printf("\n do while");
+    printf("\n do while\n \n");
     do
     {
-        if(c_str[i] =='\0')
+       /* if(c_str[i] =='\0')
             break;
+	    */
         printf("%c, \n", c_str[i]);
         i++;
     } while (i < 19);
